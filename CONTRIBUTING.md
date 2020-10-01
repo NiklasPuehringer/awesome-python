@@ -1,6 +1,7 @@
 # Contributing
 
 Bitte sende eine Email an: lieblings_kollege@firma.com
+und dann is da noch eine andere Mail adresse weil Huemer will ds so
 
 Your contributions are always welcome!
 
